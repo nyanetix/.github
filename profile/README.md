@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="logo" src="images/onikoro.jpg" width="300px">
-  <h3><bold>⋆ ˚｡⋆୨ ⟡ nyanetix ⟡ ୧⋆ ˚｡⋆</bold></h3>
+  <h3><bold>nyanetix</bold></h3>
 </div>
 
 <br/>
